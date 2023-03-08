@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Colores</string>
+    <string name="defaultHex">#fc0303</string>
+    <string name="rojo">Rojo</string>
+    <string name="naranja">Naranja</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+    <string name="morado">Morado</string>
+    <string name="esquema">Elegir un esquema</string>
+    <string name="monochrom">Monochromatic Color Scheme</string>
+    <string name="analog">Analogue Color Scheme</string>
+    <string name="comp">Complementary Color Scheme</string>
+    <string name="split">Split-Complementary Color Scheme</string>
+    <string name="triad">Triadic Color Scheme</string>
+    <string name="cuad">Cuadratic Color Scheme</string>
+    <string name="hex">HEX:</string>
+</resources>
